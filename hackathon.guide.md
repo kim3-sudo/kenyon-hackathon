@@ -1,3 +1,7 @@
+# Hackathon Guide
+
+###### Adapted from [hackathon.guide](https://hackathon.guide)
+
 ## What is a hackathon?
 
 ### Defined
@@ -21,14 +25,6 @@ Hackathons have gotten a bad rap because of _some_ that have an unhealthy, compe
 Don’t expect to have actually solved a problem by the end of the hackathon. Real life problems are hard! Think of the hackathon as a pit-stop on a long journey to solve problems or as a training session to prepare participants for solving problems.
 
 Since you’re not going to solve a problem, don’t put unrealistic (and unhealthy) pressure on your participants. Don’t stay up all night, don’t pump participants with caffeine, and don’t make winners and losers. Just don’t. There has never been beer, competitions, or time pressure at my hackathons. Participants should come energized and be greeted with positive energy.
-
-### Wait — maybe a hackathon isn’t the right thing
-
-My notes below are mostly logistical and assume a technology-centric approach. I take it for granted that you want to run a hackathon. But read [So You Think You Want to Run a Hackathon? Think Again](https://medium.com/@elle_mccann/so-you-think-you-want-to-run-a-hackathon-think-again-f96cd7df246a) by Laurenellen McCann for thoughts on other (and sometimes better) ways of engaging a community.
-
-Also consider not calling your event a “hackathon”. Not everyone will know what you mean, and “hacking” might make it [less likely that all groups will feel welcome](https://twitter.com/erinrwhite/status/707956467224190976).
-
-If the goal of your hackathon is to market a product, stop here and read a different guide. Your goals and my goals are not the same.
 
 ## Welcoming newcomers
 
