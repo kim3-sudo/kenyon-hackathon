@@ -1,5 +1,5 @@
 # The Kenyon Hackathon Handbook
-###### Last updated on September 29, 2020
+###### Last updated on October 23, 2020
 
 # What is the Kenyon Hackathon?
 
