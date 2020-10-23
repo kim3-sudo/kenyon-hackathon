@@ -25,17 +25,7 @@ The hardest thing about running a successful hackathon is being welcoming to new
 
 Newcomers often suffer from “[imposter syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome)”, the feeling that they don’t belong because they don’t have skills, aren’t smart enough, etc. They’re wrong, of course, but until they feel like they belong they will not be able to have a fulfilling experience. It is the hackathon organizer’s job to help them realize they have something to contribute.
 
-First time hackathon participants are often overwhelmed when it comes time to finding a project to work on. They may not yet know how to relate their own skills to the sorts of projects being worked on. Knowing how to be useful is a skill in itself. You will need to guide them to a project and through a process for them to realize how they can contribute. If you have too many lost participants and not enough help in getting them started on a project, they will leave — try to avoid that.
-
-The hackathon organizer must make sure that everyone has something to do. One way to do this is to have a list of project leaders ahead of time: people you know are coming with particular projects that you can guide other participants to. And you can work to make sure your hacking projects are ready to accept newcomers. You can also hold non-project activities — workshops, described below — which are easier for newcomers to join.
-
-You could also consider pairing newcomers with mentors or holding a pre-event session just for newcomers, as [Wikimedia recently did](https://blog.wikimedia.org/2017/05/31/vienna-hackathon-learnings/).
-
-## Hacking
-
-The hacking track is for participants to dive into problems. Often groups of 2-5 individuals form around a project, such as building a new data visualization, writing a document, or collaboratively investigating a problem. Participants take out their laptops, connect to power and wifi, and get working.
-
-Hacking begins with project introductions. Participants that bring projects to the event have an opportunity to briefly (1 minute max) explain what they are working on at the very start of the event so that other participants can join that project. At the end of the event, a wrap-up session gives each project a chance to demonstrate some accomplishments.
+First time hackathon and competition participants are often overwhelmed when it comes to working with a group, especially with developers that they might perceive as "better" than them. They may not yet know how to relate their own skills to the sorts of projects being worked on. Knowing how to be useful is a skill in itself. You will need to guide them to a project and through a process for them to realize how they can contribute.
 
 ### Cultivating Good Projects
 
@@ -71,12 +61,6 @@ Additionally, a subject matter expert may propose many ideas but he or she can o
 
 Onboarding participants onto existing projects can be very difficult. It is one of the hardest parts of hacking. So have ideas for new projects that are especially easy for participants to get started with if they can’t join an existing project. Having project ideas ready is especially important if you do not expect many participants to bring projects! And always be open to project ideas from participants. A project of one, meaning someone working alone, is okay too!
 
-### Other Tips
-
-Do not allow anyone to pitch an idea that they will not be working on at the event, unless there really are not enough ideas to go around. Otherwise, this is a waste of everyone’s valuable time.
-
-Once hacking has begun, do not interrupt the hackers _except_ to ensure that the hacking is going smoothly, to check that everyone has something to do, and to keep people on the overall schedule. Mid-day activities such as lunch-time speakers and video calls with people off-site are incredibly distracting for participants who are now eager to get working on a problem.
-
 ## Training
 
 A successful hackathon might be just hacking, just training, or both hacking and training.
@@ -86,8 +70,6 @@ If you have a significant number of newcomers, having training workshops is a gr
 Choose your workshop leaders carefully. Ideally the leaders have run the same workshop before so they are well rehearsed. They should also be as diverse as the attendees you would like to see present at the event (gender, race, age, etc.). Read the [Hopper Conference Diversity Guide](http://conference.hopper.org.nz/#speakers)’s tips on selecting speakers.
 
 Run the workshops in a second room if at all possible. 45-90 minute workshops are a good length. If you have more than one workshop, leave 15-30 minutes free between workshops to allow for the first leader to close up and the second leader to set up.
-
-At Open Data Day DC, we have run six workshops over two days on an introduction to open data and APIs, an introduction to collaboration using github, open mapping, an introduction to Python, and community engagement.
 
 ## Venue & date
 
@@ -100,56 +82,10 @@ Find a venue that can provide:
 *   Proper seating (see below)
 *   One power strip per table
 *   Wifi (is it fast and reliable? can it connect all of your participants? does it block any ports?)
-*   Projector
-*   A microphone, at least in large rooms
 *   Accessible entrances and wheelchair-friendly seating space (and if there is a stage, check if it is accessible, if applicable)
 *   Gender-neutral, single-occupancy, accessible bathrooms
 
 (If you are running a large event, also read through [all of the accessibility concerns listed here](http://conference.hopper.org.nz/#environment).)
-
-### Seating
-
-Seating requirements are different for hacking and workshops. For hacking, you will want a banquet-style setup with large circular tables that seat about 10 people each. Rooms in banquet-setup hold the _fewest_ number of people compared to other table/chair arrangements, so take that into account when computing capacity. For workshops you will want classroom-style seating, i.e. rectangular tables with chairs on one side.
-
-### When
-
-Choose the date of your event carefully. Avoid the summer, holidays, and other major events in your field. Weekends are hard for people who are attending in their professional capacity. Weeknights are hard for parents.
-
-Ask your venue about permissible start and end times. Set times for when you will arrive/leave and for when participants will arrive/leave. Plan at least 30 minutes before and after the event for you to set up and tear-down/cleanup.
-
-Make sure you can get in and that your participants can get in. If the building’s front door is locked, make sure you have a key and that you have someone posted at the door to let in participants (you may need a team of people to rotate at the front door throughout the day).
-
-### Also check...
-
-Check whether the venue permits you to have food in the room.
-
-If holding the event outside of business hours, check that the venue will have air conditioning/heating.
-
-### Budgeting your venue
-
-Professional venues charge quite a bit of money, so you will need to find something that fits your budget. Hopefully you can find some free space with good wifi (your local library, a friend’s company, etc.).
-
-For a large, one-full-day event in a major city, expect venues to change in the thousands of dollars per day. It depends on how much space you need, and there is no rhyme or reason to pricing, but it usually comes out to about $10-$30 per person.
-
-## Sponsorship
-
-For large events, you will probably need sponsors to help you cover the costs.
-
-Sponsors will give you something — cash, space, food, t-shirts — with the expectation that they get something out of their support for your event. They might be recruiting/hiring and are looking to scout out your attendees, or they might be marketing a product that they want to promote.
-
-Think about what you’re willing to give sponsors in return for their support. You will certainly thank your sponsors, by name, during your opening and closing session, and you will probably want to tweet your thanks too. Beyond that, do you want to give them a time at a podium to speak to your attendees? Or a table in the back to show off their stuff? It’s up to you, and you have to strike the right balance between bringing in enough sponsorships with not interfering with the goals of your event.
-
-Figure out your budget — your venue and food costs, especially — first, so you know how much in sponsorships you need. But then get started on securing sponsors early.
-
-## Food
-
-Ideally you should provide coffee and light fare for breakfast and beverages throughout the day (especially water). Food is surprisingly expensive though, so do what you can.
-
-### What to buy
-
-If you provide any food, you really _must_ supply vegetarian and dairy-free options because these dietary restrictions are very common. Going all-vegetarian isn’t a bad idea. After that, give consideration to other restrictions your participants may have (vegan, kosher, gluten-free) and do your best.
-
-Be responsible with your food. Think like a parent. Order food that is relatively healthy. Avoid heavy foods that make people sleepy (like bread) or ineffective (like alcohol). Caffeine and sugar are fine (energy is important), but have real nourishment too..
 
 ### Budgeting and logistics
 
@@ -175,11 +111,7 @@ A pre-event happy hour the night before helps participants to get to know each o
 
 For large events, pick a bar ahead of time and talk to the bar and make sure it is ok for you to bring a large group. You may want to reserve a section of the bar (they may ask for a payment ahead of time or a guaranteed minimum spend that they will charge you after if your people don’t order enough).
 
-If you are serving alcohol keep in mind: not everyone drinks (those under 21, pregnant women, and many many other people for a variety of reasons); alcohol can lead to an unsafe or uncomfortable environment; those that drink will need public transportation to get home. So therefore: provide non-alcoholic drinks; supervise the environment to ensure it remains professional and comfortable for all; be near public transit.
-
-## Registration
-
-Set up an [Eventbrite](https://www.eventbrite.com) registration form.
+If you are serving alcohol keep in mind: not everyone drinks (those under 21, pregnant women, and many many other people for a variety of reasons); alcohol can lead to an unsafe or uncomfortable environment; those that drink will need public transportation to get home. So therefore: provide non-alcoholic drinks; supervise the environment to ensure it remains professional and comfortable for all; be near public transit
 
 ### Registration Limit
 
