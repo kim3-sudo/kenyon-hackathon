@@ -138,7 +138,7 @@ It's important to note that the judging criteria do not include:
 - How good your code is: It doesn't matter if your code is messy, poorly commented, or inefficient; the judges understand that you're trying to deploy prototype software to your volunteer victim
 - How senior your teammates are: Older or higher-level teammates do not equate to more points; the quality of your hacking does
 
-Rules and Regulations
+## Rules and Regulations
 
 You will also be provided with the rules during the competition. Some infractions of the rules are more severe than others, but don't break any of the rules.
 
