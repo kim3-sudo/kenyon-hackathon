@@ -155,7 +155,7 @@ You will also be provided with the rules during the competition. Some infraction
   + Spyware is defined as software that captures information displayed or invisible to the user, including event logs, system settings, system configurations (such as processor information, RAM, microcode versions, graphics chipsets, or networking hardware), desktop screenshots, webcam pictures or video, clipboard contents, sniffed network packets, or other data of similar nature, and transmit them back to the attacker's computer
 - You may NOT attack other teams in an attempt to slow or stop their progress; you will not have the same volunteer victim as another team
 - You may NOT deploy any attacks on any government agency, including any branch of the U.S. government.
-- You may NOT deploy any malware to anyone or exploit any systems except the victim or the victim's computer. By extension, you may not attack any computer network or service provider with malware.
+- You may NOT deploy any malware to anyone or exploit any systems except the victim or the victim's virtual computer. By extension, you may not attack any computer network or service provider with malware.
 - You may NOT deploy ransomware or software that is designed to lock and encrypt files.
 - You may NOT deploy a botnet or software that is designed to attack many computers outside of the victim. However, you may pool your team's computing resources together (like a farm of laptops that you collectively own) to break an encryption key by brute force.
 - You may NOT coerce or threaten your victim to extract information.
